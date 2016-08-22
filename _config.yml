@@ -1,0 +1,14 @@
+layout_spectrum: 0.755072430241853
+typography_spectrum: 0.9221260482445359
+color:
+  brandStrength: 0.01582373073324561
+  lightness: 0.5489525175653398
+  saturation: 0.5763758639805019
+  rhythmicContrast: 0.10644021816551685
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Pet the Music
